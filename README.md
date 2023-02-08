@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Vue.js -->
-- 👯 I’m looking to collaborate on UI/UX related projects
+- 👯 I’m looking to collaborate on UI/UX projects
 <!-- - 🤔 I’m looking for help with buidling  -->
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: meshram.shubham27@gmail.com
