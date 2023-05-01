@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shubham Meshram, a fullstack designer who loves to create new stuff.
+### Hi there 👋, I'm Shubham Meshram, a Fullstack Designer who loves to create new stuff.
 
 <!-- **mesh7/mesh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
